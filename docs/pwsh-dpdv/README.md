@@ -1,6 +1,6 @@
 # PowerShell 纵深
 
-![](docs/img/pwsh-dpdv.png)
+![](img/pwsh-dpdv.png)
 
 > **副标题**：从语言语法到 .NET 运行时与 Win32 系统编程
 >
@@ -92,7 +92,7 @@
 
 ## 购买纸质书
 
-![](dpcs/img/opendoccn_print_20261110.png)
+![](img/opendoccn_print_20261110.png)
 
 ## 赞助我
 
