@@ -1,6 +1,6 @@
 # PowerShell 纵深
 
-![](img/pwsh-dpdv.png)
+![](img/pwsh-dpdv-cover.png)
 
 > **副标题**：从语言语法到 .NET 运行时与 Win32 系统编程
 >
